@@ -26,18 +26,3 @@ O App tem como objetivo oferecer informações sobre a qualidade de combustível
 Os App deverá conter informações sobre os postos,  produtos e usuários. Dos Postos serão armazenados nome, CNPJ, distribuidora, endereço, telefone e produto. Do Produto serão armazenados nome, grupo e preço. O produto também deverá conter informações sobre teste de qualidade realizado contendo nota e data da coleta.   O usuário deverá cadastrar uma conta contendo os dados: email, senha e data de nascimento. Os dados relativos aos usuários que serão armazenados são: nome, endereço e telefone. O usuário irá avaliar o produto informando nota e comentário.
 
 
-## Esse projeto contém
-
-*  SQL DE CRIAÇÃO DE BANCO DE DADOS
-*  SQL DE CRIAÇÃO DE TABELAS
-*  SQL DE INSERÇÃO DE DADOS
-*  SQL DE CONSULTAS
-*  PROTOTIPO
-*  DIAGRAMA DE ENTIDADE E RELACIONAMENTO
-
-
-## Grupo
-
-* Alexandre
-* Graziene
-* Pedro Hentique
