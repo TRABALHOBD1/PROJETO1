@@ -26,12 +26,7 @@ O App tem como objetivo oferecer informações sobre a qualidade de combustível
 Os App deverá conter informações sobre os postos,  produtos e usuários. Dos Postos serão armazenados nome, CNPJ, distribuidora, endereço, telefone e produto. Do Produto serão armazenados nome, grupo e preço. O produto também deverá conter informações sobre teste de qualidade realizado contendo nota e data da coleta.   O usuário deverá cadastrar uma conta contendo os dados: email, senha e data de nascimento. Os dados relativos aos usuários que serão armazenados são: nome, endereço e telefone. O usuário irá avaliar o produto informando nota e comentário.
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
-
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discipbd1/trab01/blob/master/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
 
 #### 4.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
 
@@ -43,22 +38,12 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  
  
 #### 4.2 TABELA DE DADOS DO SISTEMA:
-    a) Esta tabela deve conter todos os atributos do sistema e um mínimo de 10 linhas/registros de dados.
-    b) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
-    e deve ser criada antes do modelo conceitual
-    c) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
     
-![Tabela de Dados]
-(https://github.com/discipbd1/trab01/blob/master/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
     
 >## Marco de Entrega 01 em:<br>
 
 ### 5.MODELO CONCEITUAL<br>
-    A) NOTACAO ENTIDADE RELACIONAMENTO 
-        * Para nosso prótótipo limitaremos o modelo conceitual nas 6 principais entidades do escopo
-        * O protótipo deve possui no mínimo duas relações N para N
-        * o mínimo de entidades do modelo conceitual será igual a 5
-        
+            
 ![Alt text](https://github.com/TRABALHOBD1/trabalhobd/blob/master/MODELO_CONCEITUAL.jpg "Modelo Conceitual")
     
     
