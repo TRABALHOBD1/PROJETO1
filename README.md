@@ -44,5 +44,29 @@ Os App deverá conter informações sobre os postos,  produtos e usuários. Dos 
 ### 5.MODELO CONCEITUAL<br>
             
 ![Alt text](https://github.com/TRABALHOBD1/trabalhobd/blob/master/MODELO_CONCEITUAL.jpg "Modelo Conceitual")
+
+#### 5.1 Validação do Modelo Conceitual
+    [Grupo01]: [Nomes dos que participaram na avaliação]
+    [Grupo02]: [Nomes dos que participaram na avaliação]
+
+#### 5.2 DECISÕES DE PROJETO
+    [atributo]: [descrição da decisão]
     
+    
+
+#### 5.3 DESCRIÇÃO DOS DADOS 
+    [objeto]: [descrição do objeto]
+    
+    EXEMPLO:
+    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
+    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+
+
+### 6	MODELO LÓGICO<br>
+       
+
+### 7	MODELO FÍSICO<br>
+
+![Alt text](https://github.com/TRABALHOBD1/trabalhobd/blob/master/cria_tabela.sql "Modelo Físico")
+
     
