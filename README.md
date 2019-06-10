@@ -39,8 +39,7 @@ Os App deverá conter informações sobre os postos,  produtos e usuários. Dos 
  
 #### 4.2 TABELA DE DADOS DO SISTEMA:
     
-    
->## Marco de Entrega 01 em:<br>
+
 
 ### 5.MODELO CONCEITUAL<br>
             
