@@ -41,7 +41,7 @@ Os App deverá conter informações sobre os postos,  produtos e usuários. Dos 
 
 ### 5.MODELO CONCEITUAL<br>
             
-![Alt text](https://github.com/TRABALHOBD1/trabalhobd/blob/master/MODELO_CONCEITUAL.jpg "Modelo Conceitual")
+![Modelo Conceitual](https://github.com/TRABALHOBD1/trabalhobd/blob/master/MODELO_CONCEITUAL.jpg "Modelo Conceitual")
 
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: [Nomes dos que participaram na avaliação]
