@@ -9,9 +9,9 @@ Trabalho desenvolvido durante a disciplina de BD1.
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
 
-Alexandre :email_primeiro_componente@dominio.com<br>
+Alexandre :alexandre.jastrow@gmail.com<br>
 Graziene: grazienemartins@yahoo.com.br<br>
-Pedro Henrique : email_terceiro_componente@dominio.com<br>
+Pedro Henrique Machado M. Silva : objet0pensante@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 O Aplicativo visa colaborar com consumidores facilitando a identificação de postos com combustível de qualidade para abastecer seus veículos.
