@@ -2,9 +2,7 @@
 # 
 
 # TRABALHO 01:  PROJETO APP - Avaliação de postos e combustíveis
-Trabalho desenvolvido durante a disciplina de BD1
-
-A proposta é de um aplicativo que contém dados de postos de gasolina com uma fonte de combustível e oferece ao usuário um resumo das informações.
+Trabalho desenvolvido durante a disciplina de BD1.
 
 # Sumário
 
