@@ -65,13 +65,13 @@ Os App deverá conter informações sobre os postos,  produtos e usuários. Dos 
 
 ### 7	MODELO FÍSICO<br>
 
-![Alt text](https://github.com/TRABALHOBD1/trabalhobd/blob/master/cria_tabela.sql "Modelo Físico")
+![Modelo Físico](https://github.com/TRABALHOBD1/trabalhobd/blob/master/cria_tabela.sql "Modelo Físico")
 
     
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
 
-![Alt text](https://github.com/TRABALHOBD1/PROJETO1/blob/master/inserts.sql "INSERTS")
+![INSERTS](https://github.com/TRABALHOBD1/PROJETO1/blob/master/inserts.sql "INSERTS")
 
 
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELAS E INSERÇÃO DOS DADOS
