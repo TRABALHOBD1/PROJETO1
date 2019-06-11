@@ -29,8 +29,8 @@ INNER JOIN PRODUTO
 ON POSTO.ID = PRODUTO.ID_POSTO
 WHERE ENDERECO.UF= 'SP'
 AND ENDERECO.MUNICIPIO = 'SAO PAULO'
-AND PRODUTO.PRODUTO = 'ÓLEO DIESEL B S10 COMUM'
-AND PRODUTO.GRUPO_DO_PRODUTO = 'Óleo Diesel'
+AND PRODUTO.PRODUTO = 'Ã“LEO DIESEL B S10 COMUM'
+AND PRODUTO.GRUPO_DO_PRODUTO = 'Ã“leo Diesel'
 AND AVALIACAO.NOTA = 5
 
 
@@ -153,7 +153,7 @@ AND PRODUTO.GRUPO_DO_PRODUTO LIKE '%Die%'
 
 
 
-/* -----------------> USANDO LIKE  <----------------- */
+/* -----------------> USANDO DATA  <----------------- */
 
 /* Consulta por posto, estado, considerando produto,grupo de produto utilizando DATA */
 
