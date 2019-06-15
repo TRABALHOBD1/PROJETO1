@@ -9,8 +9,8 @@ Trabalho desenvolvido durante a disciplina de BD1.
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
 
-Alexandre :alexandre.jastrow@gmail.com<br>
-Graziene: grazienemartins@yahoo.com.br<br>
+Alexandre Jastrow :alexandre.jastrow@gmail.com<br>
+Graziene Martins: grazienemartins@yahoo.com.br<br>
 Pedro Henrique Machado M. Silva : objet0pensante@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
